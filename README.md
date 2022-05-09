@@ -90,8 +90,8 @@ The following tools were used in the construction of the project:
 
 -   **[Axios](https://github.com/axios/axios)**
 -   **[Vite](https://vitejs.dev)**
--   **[Jest](https://jestjs.io)**
 -   **[Tailwind](https://tailwindcss.com)**
+-   **[Phosphor Icons](https://phosphoricons.com)**
 
 > See the file  [package.json](https://github.com/LeonardoSL13/feedget/blob/master/web/package.json)
 
@@ -101,7 +101,7 @@ The following tools were used in the construction of the project:
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
 -   **[Prisma](https://www.prisma.io)**
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
--   **[dotENV](https://github.com/motdotla/dotenv)**
+-   **[Jest](https://jestjs.io)**
 
 > See the file  [package.json](https://github.com/LeonardoSL13/feedget/blob/master/server/package.json)
 
@@ -110,6 +110,7 @@ The following tools were used in the construction of the project:
 -   **[Expo](https://expo.io/)**
 -   **[Expo Google Fonts](https://github.com/expo/google-fonts)**
 -   **[Axios](https://github.com/axios/axios)**
+-   **[Phosphor Icons](https://phosphoricons.com)**
 
 > See the file  [package.json](https://github.com/LeonardoSL13/feedget/blob/master/mobile/package.json)
 
